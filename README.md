@@ -28,8 +28,6 @@ The two-page prototype is hosted on GitHub Pages:
 
 [Visit PixelQuest Hub](https://gcain0.github.io/video-game-hub/)  
 
-*(Replace `yourusername` with your actual GitHub username once Pages is enabled.)*
-
 ---
 
 ## Project Overview
